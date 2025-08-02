@@ -1,7 +1,7 @@
 # 🌍 GlobeNest-Agent-AI-Travel-Planner
 An advanced AI-powered travel assistant developed using IBM Watson Assistant, IBM Cloud, and integrated APIs. GlobeNest Agent simplifies itinerary planning by offering real-time updates, intelligent recommendations, and a fully personalized travel experience.
 
-📌 Project Summary
+#📌 Project Summary
 GlobeNest Agent transforms traditional travel planning into a smart, streamlined process.
 ✅ Reduces planning time
 ✅ Fits your travel budget
